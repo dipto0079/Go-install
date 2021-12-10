@@ -1,5 +1,4 @@
 ## Go install
-<hr/>
 <h4 align="left">
 <a>https://go.dev/doc/install </a>
 </h4>
@@ -13,7 +12,6 @@ mkdir -p go/{src,bin,pkg}
 </h4>
 
 ## Protoc install
-<hr/>
 <h4 align="left">
 <a>https://grpc.io/docs/protoc-installation</a>
 </h4>
